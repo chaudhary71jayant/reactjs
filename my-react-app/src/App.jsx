@@ -1,9 +1,9 @@
+import Welcome from "./Welcome";
+
 function App() {
-  const name = "Jayant";
-  return(
+  return (
     <div>
-      <h1>Hello, {name}!</h1>
-      <p>React Day 1 : Learning the jsx how it can use the variables in html.</p>
+      <Welcome />
     </div>
   );
 }
