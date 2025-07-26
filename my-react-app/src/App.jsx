@@ -35,14 +35,18 @@ function App() {
       <div>
         <h1>Meet our Team</h1>
 
-        {users.map((user, index) => (
+      {users.length > 0 ? (
+        users.map((user, index) => (
           <Profile
             key = {index}
             name = {user.name}
             age = {user.age}
             bio = {user.bio}
             />
-        ))}
+        ))
+      ) : (
+        <p>No Team member Found.</p>
+      )}
       </div>
     );
 }

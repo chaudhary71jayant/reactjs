@@ -37,5 +37,20 @@ Kartikeya Pathak
 Age: 22
 Frontend enthusiast with interest in UI/UX.
 
-📂 Commit: [Day 3 Props Commit](https://github.com/chaudhary71jayant/reactjs/commit/7437984dc591fb4c9b5d60da7e89d0fff5dcb8ca).
+```
+
+📂 Commit: [Day 2 Props Commit](https://github.com/chaudhary71jayant/reactjs/commit/7437984dc591fb4c9b5d60da7e89d0fff5dcb8ca) .
+
+
+### 📅 Day 3 – Lists & Conditional Rendering
+
+### ✅ What I Learned:
+- Used `.map()` to render a list of `Profile` components
+- Assigned a `key` prop to each list item
+- Applied conditional rendering using ternary operators
+- Displayed a fallback message when list is empty
+
+### 🔗 GitHub Commit:
+[👉 View Day 3 Commit]()
+
 
