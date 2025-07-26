@@ -46,11 +46,12 @@ Frontend enthusiast with interest in UI/UX.
 
 ### ✅ What I Learned:
 - Used `.map()` to render a list of `Profile` components
+[view list rendering using .map()](https://github.com/chaudhary71jayant/reactjs/compare/77568684f72d921751743ca2568eedc9ad784544...66781a659d8e3a039690db55f377cf8367349d5a)
 - Assigned a `key` prop to each list item
 - Applied conditional rendering using ternary operators
 - Displayed a fallback message when list is empty
 
 ### 🔗 GitHub Commit:
-[👉 View Day 3 Commit]()
+[👉 View Day 3 Commit](https://github.com/chaudhary71jayant/reactjs/compare/66781a659d8e3a039690db55f377cf8367349d5a...8fc7c90f6e085400aba7e06969426cc3a908e727)
 
 
