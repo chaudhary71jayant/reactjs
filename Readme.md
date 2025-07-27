@@ -54,4 +54,15 @@ Frontend enthusiast with interest in UI/UX.
 ### 🔗 GitHub Commit:
 [👉 View Day 3 Commit](https://github.com/chaudhary71jayant/reactjs/compare/66781a659d8e3a039690db55f377cf8367349d5a...8fc7c90f6e085400aba7e06969426cc3a908e727)
 
+## 📅 Day 4 - Handling Events & Forms with useState
+
+### ✅ Topics Covered:
+- Handling click events in React
+- Controlled form input using `useState` Hook
+
+### 📂 Commits:
+- 🔹 [Click event handling and form handling using useState in React]()
+
+
+
 
